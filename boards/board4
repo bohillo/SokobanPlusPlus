@@ -1,0 +1,26 @@
+10 10 100
+. . . . . . . . . .
+. . . . . . . # . .
+. # . . . . . . . .
+. . . . . . . # . .
+. # . . . . . . . .
+. . . . . . . # . .
+. # . . . . . . . .
+. . . . . . . # . .
+. # . . . . . . . .
+. . . . . . . # . X
+14
+wheeled_crate : {row =2, column=2}
+wheeled_crate : {row =5, column=3}
+heavy_crate : {row =4, column=3}
+heavy_crate : {row =5, column=4}
+crate : {row =5, column=5}
+heavy_crate : {row =5, column=6}
+fragile_crate : {row =5, column=7}
+fragile_crate : {row =5, column=8}
+fragile_crate : {row =5, column=9}
+heavy_crate : {row =5, column=10}
+treasure : {row = 7, column = 4}
+worker : {row=10, column=6}
+omni : {row=1, column=5, dynamite=5, energy=100}
+lifter : {row=10, column=3}

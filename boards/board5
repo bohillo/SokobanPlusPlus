@@ -1,0 +1,25 @@
+8 10 76
+#####.....
+#####.###.
+....#.....
+.##.#...#.
+........#.
+..........
+###.#...#.
+.........X
+15
+crate : {row = 5, column =5 }
+crate : {row = 5, column =7 }
+treasure : {row = 6, column =2 }
+wheeled_crate : {row = 6, column =4 }
+crate : {row = 6, column =6 }
+crate : {row = 7, column =7 }
+crate : {row = 6, column=9}
+wheeled_crate : {row = 2, column =10}
+crate : {row=5, column=8}
+heavy_crate : {row=4, column=1}
+omni : {row = 8, column=4, energy=11, dynamite=1}
+worker : {row = 1, column=10}
+heavy_crate : {row = 2, column=6}
+wheeled_crate : {row = 8, column=5}
+treasure : {row=4, column=6}

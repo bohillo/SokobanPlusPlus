@@ -1,0 +1,12 @@
+4 4 15
+..X.
+....
+....
+##.#
+6
+treasure : { row = 3, column = 2 }
+fragile_crate : { row = 2, column = 2 }
+fragile_crate : { row = 2, column = 3 }
+crate : { row  = 1, column = 3 }
+worker : { row = 3, column = 4 }
+omni : { row = 3, column = 1, energy = 3, dynamite = 2 }

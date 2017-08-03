@@ -1,0 +1,21 @@
+10 7 100
+# . . . . # #
+# . . . # # #
+# # . . . . X
+. X . X # . .
+. . . . . . .
+# # . . # . #
+# # . . . . #
+# # . . . . #
+. . . . # # #
+. . . . # # .
+9
+treasure : {row=3, column=4}
+treasure : {column=2, row=5}
+worker : {row=1, column=3}
+sapper : {column = 4, dynamite=3, row=6}
+treasure : {row=9, column = 3}
+worker : {row= 10, column = 1}
+crate : {row=10, column=4}
+wheeled_crate : {row=7, column=3}
+fragile_crate : {row = 3, column=5}

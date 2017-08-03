@@ -1,0 +1,12 @@
+6 4 50
+# . . .
+# . . .
+# # . .
+. X . X
+. . . .
+# # . .
+4
+treasure : {row=3, column=4}
+treasure : {column=2, row=5}
+worker : {row=1, column=3}
+worker : {column = 4, row=6}
